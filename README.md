@@ -9,7 +9,7 @@ University of Texas Data Analytics and Visualization Bootcamp - Spring/Summer 20
 
 ## Communication protocols 
 
-Each memeber has access to a team slack channel and can post comments or concerns as necessary for the entire team to comment on outside of class.  Additionally, everyone's personal email was posted in this channel for additoinal communication as needed.
+Each member has access to a team slack channel and can post comments or concerns as necessary for the entire team to view outside of class.  Additionally, everyone's personal email was posted in this channel for another avenue of communication as needed.
 
 ## Project Overview and Purpose
 The entire team consists of sports enthusiasts and we wanted to chose a major sport where we could analyze data for our final project.  Specifically, we chose to conduct an analysis using NBA data from years 2009-2011 to predict the following three topics:
