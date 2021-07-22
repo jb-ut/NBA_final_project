@@ -1,4 +1,4 @@
-# NBA_final_project Assigned - Technologies
+# NBA_final_project - Technologies
 
 ## Focus
 
