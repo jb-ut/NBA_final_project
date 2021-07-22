@@ -3,7 +3,7 @@ University of Texas Data Analytics and Visualization Bootcamp - Spring/Summer 20
 Final group project focusing on the NBA
 
 ## Team members and roles
-- John Brown - GotHub Repository
+- John Brown - GitHub Repository
 - Mia Greenberg - Database Design
 - Taylor Coffee - Machine Learning
 - Jeff Austin - Technologies
