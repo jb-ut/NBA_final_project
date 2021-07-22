@@ -5,7 +5,7 @@ Final group project focusing on the NBA
 ## Team members and roles
 - John Brown - GitHub Repository
 - Mia Greenberg - Database Design
-- Taylor Coffee - Machine Learning
+- Taylor Coffee - Machine Learning Modeling
 - Jeff Austin - Technologies
 
 ## Project Overview and Purpose
