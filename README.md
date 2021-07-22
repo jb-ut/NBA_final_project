@@ -2,7 +2,7 @@
 University of Texas Data Analytics and Visualization Bootcamp - Spring/Summer 2021 
 Final group project focusing on the NBA
 
-## Project Overvies
+## Project Overview
 NBA analysis using data from years 2009-2011 to predict the following three topics:
 
 - Home wins based on attendance
