@@ -21,7 +21,7 @@ Data Sources provided to analyze and minipulate included:
 - nba_2009_2011.csv - NBA Player and Play by Play datasets in CSV Format – perfect for machine learning / sports data analysis & visualization, and building sportsbetting prediction models.
 - team.csv
 
-Software utilized for this study included:
+Software and applications utilized for this study included:
 - Group GitHub account
 - Python 3.7.6
 - Pandas
