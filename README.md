@@ -8,7 +8,7 @@ This branch of the project focuses on disucussing techncologies for each process
 
 2. Database Design - We used pgAdmin to manipluate the tables as this was a familiar tool after using it in our Module 7. Further, we used a Postgres/Mongo DB (???) with a database diagram from quickdatabasediagrams.com to show the data layout and entity - relationships between the tables and their attributes.  Both of these tools were also familiar to us and provided a good workflow for the DB design.
 
-3. Machine Learning - We used the Pandas and Jupyter Notebook to read in the data and create our dataframe.
+3. Machine Learning - We used the Pandas and Jupyter Notebook to read in the data and create our dataframe.  We then cleaned and massaged the data and performed exploratory anlysis using Python.
 
 4. Visualization - Tableau
 
