@@ -19,11 +19,8 @@ The entire team consists of sports enthusiasts and we wanted to chose a major sp
 - Home wins based on fouls
 
 ## Resources
-Data Sources provided to analyze and minipulate included:
-- game_edited.csv
-- game_original.csv
-- nba_2009_2011.csv - NBA Player and Play by Play datasets in CSV Format – perfect for machine learning / sports data analysis & visualization, and building sportsbetting prediction models.
-- team.csv
+Data Sources searched to analyze and minipulate included:
+https://www.kaggle.com/wyattowalsh/basketball
 
 Software and applications utilized for this study included:
 - Group GitHub account
@@ -32,9 +29,7 @@ Software and applications utilized for this study included:
 - SQL
 - pgAdmin
 - Tableau
-- ??
-- ??
-- ??
+- Story Books
 
 ## Analysis and Workflow
 
