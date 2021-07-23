@@ -5,7 +5,7 @@ University of Texas Data Analytics and Visualization Bootcamp - Spring/Summer 20
 - John Brown - GitHub Repository/Visualizations
 - Mia Greenberg - Database Design
 - Taylor Coffee - Machine Learning Modeling
-- Jeff Austin - Technologies/Dasboard
+- Jeff Austin - Technologies/Dashboard
 
 ## Communication protocols 
 
