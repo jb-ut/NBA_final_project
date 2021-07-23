@@ -2,10 +2,10 @@
 University of Texas Data Analytics and Visualization Bootcamp - Spring/Summer 2021 
 
 ## Team members and roles
-- John Brown - GitHub Repository
+- John Brown - GitHub Repository/Visualizations
 - Mia Greenberg - Database Design
 - Taylor Coffee - Machine Learning Modeling
-- Jeff Austin - Technologies
+- Jeff Austin - Technologies/Dasboard
 
 ## Communication protocols 
 
