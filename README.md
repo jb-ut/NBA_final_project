@@ -10,7 +10,7 @@ This branch of the project focuses on discussing techncologies for each process 
 
 3. Machine Learning - We will utilize a supervised machine learning model for our project as this is the most straight forward way to obtain and display our results.  We used the Pandas and Jupyter Notebook to read in the data and create our dataframe as this program is the most familiar to us..  We then cleaned and massaged the data and performed exploratory analysis using Python.
 
-4. Visualization - We will be using Tableau as this is a simple and straightforward program that can can create visualizations that be used to dump information straight into Story books.
+4. Visualization - We will be using Tableau as this is a simple and straightforward program that can can create visualizations that be used to dump information straight into the dashboard.
 
 5. Dashboard - We will be using Tableau dashboards as this is a simple program used to explain the history of the workflow and show visually what data is the most relevant to our study.
 
