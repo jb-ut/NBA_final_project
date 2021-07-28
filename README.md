@@ -1,5 +1,5 @@
 # NBA_final_project
-University of Texas Data Analytics and Visualization Bootcamp - Spring/Summer 2021 
+University of Texas Data Analytics and Visualization Bootcamp Final Project - Spring/Summer 2021 
 
 ## Team members and roles
 - John Brown - GitHub Repository/Visualizations
