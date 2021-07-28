@@ -12,5 +12,5 @@ This branch of the project focuses on discussing techncologies for each process 
 
 4. Visualization - We will be using Tableau as this is a simple and straightforward program that can can create visualizations that be used to dump information straight into Story books.
 
-5. Dashboard - We will be using Story books as this is a simple program used to explain the history of the workflow and show visually what data is the most relevant to our study.
+5. Dashboard - We will be using Tableau dashboards as this is a simple program used to explain the history of the workflow and show visually what data is the most relevant to our study.
 
