@@ -56,11 +56,28 @@ Deliverable 2:
 
 # Database
 
+Deliverable 1: Entity-Relationship Diagram: The entity-relationship is one to many between the id in the Team table and the TEAM_ID_HOME in the Game table.  
 
+![alt text](https://github.com/jb-ut/NBA_final_project/blob/Mia/ERD_NBA_FInal%20Project.png)
 
+Deliverable 2:
 
+- Database stores static data for use during the project
+- Database interfaces with the project in some format (e.g., scraping updates the database)
+- Includes at least two tables (or collections, if using MongoDB)
+- Includes at least one join using the database language (not including any joins in Pandas)
+- Includes at least one connection string (using SQLAlchemy or PyMongo)
 
-## Results (Visualizations)
+Database link: 
+
+## Results (Visualizations/Concluding Statements)
 
 ## Summary (Dashboard)
+
+Deliverable 2:
+
+- Storyboard on a Google Slide(s)
+- Description of the tool(s) that will be used to create the final dashboard
+- Description of interactive element(s)
+
 
