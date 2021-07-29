@@ -40,6 +40,11 @@ Software and applications utilized for this study included:
 3. Run some of the other stats (FG, 3PT Made, etc.) as the X to identify the stats that we should put in the model by seeing if any of them spread nicely towards 0 or 1.
 
 Code:
+Deliverable 1
+
+![alt text](https://github.com/jb-ut/NBA_final_project/blob/Taylor/deliverable1_machine_learning.ipynb)
+
+Deliverable 2
 
 ![alt text](https://github.com/jb-ut/NBA_final_project/blob/Taylor/deliverable2_machine_learning.ipynb)
 
