@@ -60,7 +60,7 @@ Deliverable 2:
 
 
 
-## Results
+## Results (Visualizations)
 
-## Summary
+## Summary (Dashboard)
 
