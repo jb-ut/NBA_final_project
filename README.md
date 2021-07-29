@@ -41,13 +41,9 @@ Software and applications utilized for this study included:
 
 Code:
 
-Deliverable 1:
+Deliverable 1: https://github.com/jb-ut/NBA_final_project/blob/Taylor/deliverable1_machine_learning.ipynb
 
-![alt text](https://github.com/jb-ut/NBA_final_project/blob/Taylor/deliverable1_machine_learning.ipynb)
-
-Deliverable 2:
-
-![alt text](https://github.com/jb-ut/NBA_final_project/blob/Taylor/deliverable2_machine_learning.ipynb)
+Deliverable 2: https://github.com/jb-ut/NBA_final_project/blob/Taylor/deliverable2_machine_learning.ipynb
 
 - Description of preliminary data preprocessing
 - Description of preliminary feature engineering and preliminary feature selection, including the decision-making process
