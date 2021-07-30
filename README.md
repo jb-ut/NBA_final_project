@@ -49,6 +49,8 @@ Deliverable 2:
 
 - https://github.com/jb-ut/NBA_final_project/blob/Taylor/deliverable2_machine_learning.ipynb
 
+Details - 
+
 - Description of preliminary data preprocessing - ?????
 - Description of preliminary feature engineering and preliminary feature selection, including the decision-making process - ?????
 - Description of how data was split into training and testing sets - ?????
