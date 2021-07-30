@@ -22,6 +22,18 @@ The entire team consists of sports enthusiasts and we wanted to chose a major sp
 Data Sources searched to analyze and minipulate included:
 - https://www.kaggle.com/wyattowalsh/basketball
 
+This dataset is updated daily and contains data on all games, all teams, and all players within the NBA including:
+
+- 60,000+ games (every game since the first NBA season in 1946-47) including for the games in which the statistics were recorded:
+Box scores, Game summaries, Officials, Inactive players, Linescores, Last face-off stats, Season series info, Game video availability
+
+- 30 teams with information including:
+General team details (stadium, head coach, general manager, social media links, etc), Franchise history information (name changes, location changes, etc)
+
+- 4500 players with:
+Basic draft data, Prior affiliations, Career statistics. Anatomical data (height & weight)
+and more, with plans for expansion!
+
 Software and applications utilized for this study included:
 - Group GitHub account
 - Python 3.7.6
