@@ -72,7 +72,7 @@ Database link: ????
 
 Deliverable 2:
 
-- Storyboard on a Google Slide(s)
+- Storyboard on a Google Slide(s) - Link ????
 - Description of the tool(s) that will be used to create the final dashboard
 - Description of interactive element(s)
 
