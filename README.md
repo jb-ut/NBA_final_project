@@ -45,10 +45,10 @@ Deliverable 1: https://github.com/jb-ut/NBA_final_project/blob/Taylor/deliverabl
 
 Deliverable 2: https://github.com/jb-ut/NBA_final_project/blob/Taylor/deliverable2_machine_learning.ipynb
 
-- Description of preliminary data preprocessing
-- Description of preliminary feature engineering and preliminary feature selection, including the decision-making process
-- Description of how data was split into training and testing sets
-- Explanation of model choice, including limitations and benefits
+- Description of preliminary data preprocessing - ?????
+- Description of preliminary feature engineering and preliminary feature selection, including the decision-making process - ?????
+- Description of how data was split into training and testing sets - ?????
+- Explanation of model choice, including limitations and benefits - ?????
 
 # Database
 
@@ -64,7 +64,7 @@ Deliverable 2:
 - Includes at least one join using the database language (not including any joins in Pandas)
 - Includes at least one connection string (using SQLAlchemy or PyMongo)
 
-Database link: 
+Database link: ????
 
 ## Results (Visualizations/Concluding Statements)
 
