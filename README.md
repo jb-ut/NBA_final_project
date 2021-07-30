@@ -19,7 +19,7 @@ The entire team consists of sports enthusiasts and we wanted to chose a major sp
 - Home wins based on fouls
 
 ## Resources
-Data Sources searched to analyze and minipulate can from the website (https://www.kaggle.com/wyattowalsh/basketball), which is a dataset that is updated daily and contains data on all games, all teams, and all players within the NBA including:
+Data Sources searched to analyze and minipulate came from the website https://www.kaggle.com/wyattowalsh/basketball, which is a dataset that is updated daily and contains data on all games, all teams, and all players within the NBA including:
 
 - 60,000+ games (every game since the first NBA season in 1946-47) including for the games in which the statistics were recorded:
 Box scores, Game summaries, Officials, Inactive players, Linescores, Last face-off stats, Season series info, Game video availability
