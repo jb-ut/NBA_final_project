@@ -60,10 +60,10 @@ Deliverable 2:
 
 Details - 
 
-- Description of preliminary data preprocessing - ?????
-- Description of preliminary feature engineering and preliminary feature selection, including the decision-making process - ?????
-- Description of how data was split into training and testing sets - ?????
-- Explanation of model choice, including limitations and benefits - ?????
+- Description of preliminary data preprocessing - Using sqlalchemy, a select statement will be used to pull data into a DataFrame where a JOIN on the team id's and team abbreviations will be brought in.  From there, the team abbreviations were run through LabelEncoder from sklearn.preprocessing.  Following that transformation, the entire dataset is run through MinMaxScaler.  A binary Home_W column was generated from the original WL_HOME column whereby if WL_Home = W, then Home_W = 1 or if WL_Home = L, Home_W = 0.
+- Description of preliminary feature engineering and preliminary feature selection, including the decision-making process - (for now) We have created a correlation table using pandas.corr() on a dataframe of all of the preliminary data.  From there, anything with a Pearson Correlation Ceofficient of >.3 or <-.3 was used in the interim.  A second look at the data using linregress will be completed in the upcoming week.
+- Description of how data was split into training and testing sets - Data was split into training and testing sets via the use of sklearn.model_selection's train_test_split default test_size and train_size, .75 and .25 respectively.
+- Explanation of model choice, including limitations and benefits - Given the binary nature of whether or not the home team won (1 = Win, 0 = Loss), we opted to use a tensorflow neural network.  The neural network would work for binary classification, plus given the limited number of columns selected, were able to get the model as high as 92.2% accuracy training on any where between 50-100 epochs to avoid overfitting.  The three input layers, from 1-3, had the following number of hidden nodes: 15, 7, 3 and were all relu activation.  We opted for ReLU because the inputs involved were all >0.  If we had negative input values, ReLU would have been reconsidered as it does not handle negative values, a limitation.
 
 # Database
 
