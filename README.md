@@ -44,12 +44,6 @@ Software and applications utilized for this study included:
 
 # Machine Learning Model
 
-1. Load the dataset into Tableau
-2. Generate charts where we use the Y axis as the HOME_W column
-3. Run some of the other stats (FG, 3PT Made, etc.) as the X to identify the stats that we should put in the model by seeing if any of them spread nicely towards 0 or 1.
-
-Code:
-
 Deliverable 1: 
 
 - https://github.com/jb-ut/NBA_final_project/blob/Taylor/deliverable1_machine_learning.ipynb
