@@ -89,5 +89,5 @@ This project utilized Tableau storyboards which is a a sequence of visualization
 
 - Description of interactive element(s)
 
-Interactive elements allow us to hover over different figures to see the results within the chart that is being displayed.
+Interactive elements allow us to hover over different figures to see the results within the chart that is being displayed.  All charts and figures within our storybooks is interaxtive to see resulys in realtime.
 
