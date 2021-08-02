@@ -1,6 +1,8 @@
 # NBA_final_project
 University of Texas Data Analytics and Visualization Bootcamp Final Project - Spring/Summer 2021 
 
+![alt text](https://github.com/jb-ut/NBA_final_project/blob/main/NBA.jpg)
+
 ## Team members and roles
 - John Brown - GitHub Repository/Visualizations
 - Mia Greenberg - Database Design
