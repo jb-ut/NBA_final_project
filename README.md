@@ -85,5 +85,5 @@ Deliverable 2:
 
 - Description of the tool(s) that will be used to create the final dashboard - This project utilized Tableau storyboards which is a a sequence of visualizations that work together to convey information of the history and different milestones of the project.
 
-- Description of interactive element(s) - Interactive elements allow us to hover over different figures to see the results within the chart that is being displayed.  All charts and figures within our storybooks are interaxtive to see results at the viewers discretion.
+- Description of interactive element(s) - Interactive elements allow us to hover over different figures to see the results within the chart that is being displayed.  All charts and figures within our storybooks are interactive to see results at the viewers discretion.
 
