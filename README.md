@@ -65,6 +65,7 @@ Details -
 - Description of how data was split into training and testing sets - Data was split into training and testing sets via the use of sklearn.model_selection's train_test_split default test_size and train_size, .75 and .25 respectively.
 - Explanation of model choice, including limitations and benefits - Given the binary nature of whether or not the home team won (1 = Win, 0 = Loss), we opted to use Logistic Regression.  Feeding the Logistic Regression Model the limited number of columns selected, we were able to get the model as high as 92% accuracy training on 100 iterations.
 - The confusion matrix showed that the model is fairly evenly mislabeling home wins and losses.  See Figure: 'Confusion Matrix' below.
+- <b>Figure: Confusion Matrix</b>
 
 ![image](https://user-images.githubusercontent.com/78180065/128397712-c968ba38-601e-4f4f-951f-cd17addb29c1.png)
 
