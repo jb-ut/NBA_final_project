@@ -9,10 +9,6 @@ University of Texas Data Analytics and Visualization Bootcamp Final Project - Sp
 - Taylor Coffee - Machine Learning Modeling
 - Jeff Austin - Technologies/Dashboard
 
-## Communication protocols 
-
-Each member has access to a team slack channel and can post comments or concerns as necessary for the entire team to view outside of class.  Additionally, everyone's personal email was posted in this channel for another avenue of communication as needed.
-
 ## Project Overview and Purpose
 The entire team consists of sports enthusiasts and we wanted to chose a major sport where we could analyze data for our final project.  Specifically, we chose to conduct an analysis using NBA data to predict the following three topics:
 
