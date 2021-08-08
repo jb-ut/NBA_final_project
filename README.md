@@ -91,10 +91,14 @@ Deliverable 2:
 
 - Description of interactive element(s) - Interactive elements allow us to hover over different figures to see the results within the chart that is being displayed.  All charts and figures within our storybooks are interactive to see results at the viewers discretion.
 
-Deliverable 3: Visulaizations
+Deliverable 3: Visulaizations - Images of the Initial Analysis
 
 Figure 1 - ?????
 
 Figure 2 - ?????
 
-Figure 3 ' ?????
+Figure 3 - ?????
+
+Image of the Machine Learning Task
+
+Image of the Interactive Element
