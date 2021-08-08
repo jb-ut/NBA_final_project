@@ -99,6 +99,6 @@ Figure 2 - ?????
 
 Figure 3 - ?????
 
-Image of the Machine Learning Task
+Image of the Machine Learning Task - ?????
 
-Image of the Interactive Element
+Image of the Interactive Element - ?????
