@@ -25,7 +25,7 @@ General team details (stadium, head coach, general manager, social media links, 
 Basic draft data, Prior affiliations, Career statistics. Anatomical data (height & weight)
 and more, with plans for expansion!
 
-## Texhnologies
+## Technologies
 Software and applications utilized for this study included:
 
 - Group GitHub repo
