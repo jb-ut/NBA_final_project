@@ -93,9 +93,10 @@ Deliverable 2:
 
 Deliverable 3:
 
-Images of the Initial Analysis:
+Images of the Analysis:
 
-Figure 1 - ?????
+![image](https://user-images.githubusercontent.com/78325334/129241000-1386c1c3-fc06-40da-8043-4e0c22d4b297.png)
+
 
 Figure 2 - ?????
 
