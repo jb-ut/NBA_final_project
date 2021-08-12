@@ -95,12 +95,11 @@ Deliverable 3:
 
 Images of the Analysis:
 
-![image](https://user-images.githubusercontent.com/78325334/129241000-1386c1c3-fc06-40da-8043-4e0c22d4b297.png)
+![alt text](https://github.com/jb-ut/NBA_final_project/blob/main/FP_1.PNG)
 
+![alt text](https://github.com/jb-ut/NBA_final_project/blob/main/FP_2.PNG)
 
-Figure 2 - ?????
-
-Figure 3 - ?????
+![alt text](https://github.com/jb-ut/NBA_final_project/blob/main/FP_2.PNG)
 
 Image of the Machine Learning Task - ?????
 
