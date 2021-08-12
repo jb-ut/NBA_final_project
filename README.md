@@ -95,6 +95,8 @@ How data was split into training and testing sets:
 Data was split into training and testing sets via the use of sklearn.model_selection train_test_split
 Default test_size and train_size, .75 and .25 respectively, were used.
 
+Deliverable 4:
+
 Machine Learning Results:
 
 - Sensitivity: .92
