@@ -120,7 +120,8 @@ Deliverable 2:
 
 Deliverable 2:
 
-- Storyboard on a Google Slide(s) - Bar charts from Tableau Dashboards.  https://docs.google.com/presentation/d/156rbFzQtR6N_mrGVzII4gpKUENtHjqFAMoQHAVrRbM0/edit#slide=id.ge68a6a7707_0_23
+- Storyboard on a Google Slide(s) - Plots from Tableau :
+-  https://docs.google.com/presentation/d/156rbFzQtR6N_mrGVzII4gpKUENtHjqFAMoQHAVrRbM0/edit#slide=id.ge68a6a7707_0_23
 
 - Description of the tool(s) that will be used to create the final dashboard - This project utilized Tableau Dashboards which is a a sequence of visualizations that work together to convey information of the history and different milestones of the project.
 
