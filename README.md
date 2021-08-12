@@ -62,6 +62,46 @@ Details -
 
 ![image](https://user-images.githubusercontent.com/78180065/128397712-c968ba38-601e-4f4f-951f-cd17addb29c1.png)
 
+Exploratory Data:
+
+SQLAlchemy: This allowed us to retrieve data from the database using SQL and put it into a DataFrame.
+Pandas: DataFrame allowed us the infrastructure to preprocess and encode the data.
+Using both libraries, trimmed 60,000+ game dataset down to only 2015/16 through 2018/19 seasons for the Machine Learning Model.
+
+Feature Selection
+
+Description of preliminary feature engineering and preliminary feature selection:
+We have created a correlation table using pandas.corr() on a dataframe of all preliminary data
+Anything with a Pearson Correlation Coefficient of >.3 or <-.3 was included in the SELECT statement
+For example, Largest Lead for Home and Away had correlations >.6 and <-.6.
+
+Data Pre-processing
+
+Description of preliminary data preprocessing:
+- Binary Home_W column was generated from the original WL_HOME column whereby if WL_Home = W, then Home_W = 1 or if WL_Home = L, Home_W = 0.
+-- WL_HOME is dropped from the DataFrame.
+- Team abbreviations were run through LabelEncoder from sklearn.preprocessing.
+- Entire dataset is run through StandardScaler.
+
+The Model - Logistic Regression Model:
+
+-Excellent for Classification problems (i.e. Home Win = 1, Home Loss = 0)
+-Non-linear dataset
+
+Training and Testing:
+
+How data was split into training and testing sets:
+Data was split into training and testing sets via the use of sklearn.model_selection train_test_split
+Default test_size and train_size, .75 and .25 respectively, were used.
+
+Machine Learning Results:
+
+- Sensitivity: .92
+- Specificity: .92
+- Precision: .94
+- Accuracy: .92
+
+
 # Database
 
 Deliverable 1: Entity-Relationship Diagram: The entity-relationship is one to many between the id in the Team table and the TEAM_ID_HOME in the Game table.  
