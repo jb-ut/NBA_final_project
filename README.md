@@ -69,14 +69,14 @@ SQLAlchemy: This allowed us to retrieve data from the database using SQL and put
 Pandas: DataFrame allowed us the infrastructure to preprocess and encode the data.
 Using both libraries, trimmed 60,000+ game dataset down to only 2015/16 through 2018/19 seasons for the Machine Learning Model.
 
-Feature Selection
+Feature Selection:
 
 Description of preliminary feature engineering and preliminary feature selection:
 We have created a correlation table using pandas.corr() on a dataframe of all preliminary data
 Anything with a Pearson Correlation Coefficient of >.3 or <-.3 was included in the SELECT statement
 For example, Largest Lead for Home and Away had correlations >.6 and <-.6.
 
-Data Pre-processing
+Data Pre-processing:
 
 Description of preliminary data preprocessing:
 - Binary Home_W column was generated from the original WL_HOME column whereby if WL_Home = W, then Home_W = 1 or if WL_Home = L, Home_W = 0.
