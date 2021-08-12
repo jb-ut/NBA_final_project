@@ -7,7 +7,7 @@ University of Texas Data Analytics and Visualization Bootcamp Final Project - Sp
 - John Brown - GitHub Repository/Visualizations
 - Mia Greenberg - Database Design
 - Taylor Coffee - Machine Learning Modeling
-- Jeff Austin - Technologies/Dashboard
+- Jeff Austin - Technologies/Main Author
 
 ## Project Overview and Purpose
 The entire team consists of sports enthusiasts and we wanted to choose a major sport where we could analyze data for our final project. Specifically, we chose to conduct an analysis using NBA data to predict home team wins.
@@ -118,7 +118,13 @@ Deliverable 2:
 - Includes at least one connection string (using SQLAlchemy or PyMongo)
 
 Deliverable 3: No Resquirements
-Deliverable 4: ?????
+
+Deliverable 4:  Datbase Summary
+
+- Tables can be merged on Team table “id” column with Game table “Team ID Home or Away”
+- For future use Team table “id” can be merged via full Inner Join with other data sets
+- Extracted from CSV > Transformed column count for usable columns and selected dates > Loaded to AWS database in pgAdmin
+
 
 # Results (Visualizations/Dashboard)
 
