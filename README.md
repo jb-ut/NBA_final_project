@@ -10,11 +10,7 @@ University of Texas Data Analytics and Visualization Bootcamp Final Project - Sp
 - Jeff Austin - Technologies/Dashboard
 
 ## Project Overview and Purpose
-The entire team consists of sports enthusiasts and we wanted to chose a major sport where we could analyze data for our final project.  Specifically, we chose to conduct an analysis using NBA data to predict the following three topics:
-
-- Home wins based on attendance
-- Home wins based on Field Goal %
-- Home wins based on fouls
+The entire team consists of sports enthusiasts and we wanted to choose a major sport where we could analyze data for our final project. Specifically, we chose to conduct an analysis using NBA data to predict home team wins.
 
 ## Resources
 Data Sources searched to analyze and minipulate came from the website https://www.kaggle.com/wyattowalsh/basketball, which is a dataset that is updated daily and contains data on all games, all teams, and all players within the NBA including:
