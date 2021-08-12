@@ -119,9 +119,9 @@ Deliverable 2:
 - Includes at least one join using the database language (not including any joins in Pandas)
 - Includes at least one connection string (using SQLAlchemy or PyMongo)
 
-Deliverable 3: No Resquirements
+Deliverable 3: No Requirements
 
-Deliverable 4:  Datbase Summary
+Deliverable 4: Datbase Summary
 
 - Tables can be merged on Team table “id” column with Game table “Team ID Home or Away”
 - For future use Team table “id” can be merged via full Inner Join with other data sets
