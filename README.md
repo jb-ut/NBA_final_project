@@ -30,13 +30,14 @@ Basic draft data, Prior affiliations, Career statistics. Anatomical data (height
 and more, with plans for expansion!
 
 Software and applications utilized for this study included:
-- Group GitHub account
+
+- Group GitHub repo
 - Python 3.7.6
+- SQL Alchemy
 - Pandas
-- SQL
-- pgAdmin
+- SQL within pgAdmin
 - Tableau
-- Tableau Dashboards
+
 
 ## Analysis and Workflow
 
@@ -79,8 +80,6 @@ Deliverable 2:
 - Includes at least one join using the database language (not including any joins in Pandas)
 - Includes at least one connection string (using SQLAlchemy or PyMongo)
 
-Database link: ????
-
 ## Results (Visualizations/Dashboard)
 
 Deliverable 2:
@@ -93,14 +92,34 @@ Deliverable 2:
 
 Deliverable 3:
 
-Images of the Analysis:
+Images of the Analysis and Interactive Elements:
 
 ![alt text](https://github.com/jb-ut/NBA_final_project/blob/main/FP_1.PNG)
 
 ![alt text](https://github.com/jb-ut/NBA_final_project/blob/main/FP_2.PNG)
 
-![alt text](https://github.com/jb-ut/NBA_final_project/blob/main/FP_2.PNG)
+![alt text](https://github.com/jb-ut/NBA_final_project/blob/main/FP_3.PNG)
 
 Image of the Machine Learning Task - ?????
 
-Image of the Interactive Element - ?????
+Deliverable 4:
+
+Conclusions
+
+- We were did not create a recipe for on court success.
+- We learned that there are a core set of statistics, that isn’t the final score that can allow a machine learning model to predict home wins.
+
+Future Work
+
+- See whether the model is applicable to past and future seasons.
+- Would this model be applicable to games played without crowds?
+- Test column set against international leagues 
+- Use more player specific stats (i.e. shot distance, etc.)
+
+What would we have done differently?
+
+- Take additional time to look at trends in different sports
+- Dig deeper into quantifying on-court analysis
+
+
+
