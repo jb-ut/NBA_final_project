@@ -149,8 +149,6 @@ Images of the Analysis and Interactive Elements:
 
 ![alt text](https://github.com/jb-ut/NBA_final_project/blob/main/FP_3.PNG)
 
-Image of the Machine Learning Task - ?????
-
 Deliverable 4:
 
 Conclusions
