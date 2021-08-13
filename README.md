@@ -111,6 +111,16 @@ Deliverable 1: Entity-Relationship Diagram: The entity-relationship is one to ma
 
 ![alt text](https://github.com/jb-ut/NBA_final_project/blob/Mia/ERD_NBA_FInal%20Project.png)
 
+## Configuration
+#### DB instance ID
+mypostgressdb
+#### Engine version
+11.11
+#### DB name
+my_nba_data_class_db
+#### License model
+Postgresql License
+
 Deliverable 2:
 
 - Database stores static data for use during the project
@@ -118,17 +128,6 @@ Deliverable 2:
 - Includes at least two tables (or collections, if using MongoDB)
 - Includes at least one join using the database language (not including any joins in Pandas)
 - Includes at least one connection string (using SQLAlchemy or PyMongo)
-
-## Configuration
-### DB instance ID
-mypostgressdb
-### Engine version
-11.11
-### DB name
-my_nba_data_class_db
-### License model
-Postgresql License
-
 
 Deliverable 3: No Requirements
 
