@@ -119,6 +119,17 @@ Deliverable 2:
 - Includes at least one join using the database language (not including any joins in Pandas)
 - Includes at least one connection string (using SQLAlchemy or PyMongo)
 
+## Configuration
+### DB instance ID
+mypostgressdb
+### Engine version
+11.11
+### DB name
+my_nba_data_class_db
+### License model
+Postgresql License
+
+
 Deliverable 3: No Requirements
 
 Deliverable 4: Datbase Summary
